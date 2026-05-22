@@ -4,3 +4,6 @@ dist/
 .env.*
 *.log
 daily-schedule-screenshot.png
+.vercel-cache/
+
+.vercel
